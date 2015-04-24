@@ -5,6 +5,8 @@ VisualStudioVersion = 12.0.30501.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SocketUDP", "SocketUDP\SocketUDP.vcxproj", "{3D5FE7D0-EEE9-4C0D-905E-7C7FE50BF76F}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ProfSolution", "ProfSolution\ProfSolution.vcxproj", "{9836700A-87B3-4974-B0F3-C8F0F7CD51E0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -15,6 +17,10 @@ Global
 		{3D5FE7D0-EEE9-4C0D-905E-7C7FE50BF76F}.Debug|Win32.Build.0 = Debug|Win32
 		{3D5FE7D0-EEE9-4C0D-905E-7C7FE50BF76F}.Release|Win32.ActiveCfg = Release|Win32
 		{3D5FE7D0-EEE9-4C0D-905E-7C7FE50BF76F}.Release|Win32.Build.0 = Release|Win32
+		{9836700A-87B3-4974-B0F3-C8F0F7CD51E0}.Debug|Win32.ActiveCfg = Debug|Win32
+		{9836700A-87B3-4974-B0F3-C8F0F7CD51E0}.Debug|Win32.Build.0 = Debug|Win32
+		{9836700A-87B3-4974-B0F3-C8F0F7CD51E0}.Release|Win32.ActiveCfg = Release|Win32
+		{9836700A-87B3-4974-B0F3-C8F0F7CD51E0}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
